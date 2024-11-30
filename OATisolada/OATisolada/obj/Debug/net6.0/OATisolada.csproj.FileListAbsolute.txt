@@ -1,0 +1,14 @@
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\bin\Debug\net6.0\OATisolada.exe
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\bin\Debug\net6.0\OATisolada.deps.json
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\bin\Debug\net6.0\OATisolada.runtimeconfig.json
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\bin\Debug\net6.0\OATisolada.dll
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\bin\Debug\net6.0\OATisolada.pdb
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.AssemblyInfoInputs.cache
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.AssemblyInfo.cs
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.csproj.CoreCompileInputs.cache
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.dll
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\refint\OATisolada.dll
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.pdb
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\OATisolada.genruntimeconfig.cache
+C:\Users\ctOS\Documents\GitHub\OATisolada\OATisolada\obj\Debug\net6.0\ref\OATisolada.dll
